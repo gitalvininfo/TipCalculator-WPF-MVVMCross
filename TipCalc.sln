@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Core", "TipCalc.Core\TipCalc.Core.csproj", "{F93526F1-8DC9-44C6-963D-15BC3996DFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.WPF", "TipCalc.WPF\TipCalc.WPF.csproj", "{2773A2EE-21C5-4BBD-A5AE-CBDBCFA689D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93526F1-8DC9-44C6-963D-15BC3996DFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93526F1-8DC9-44C6-963D-15BC3996DFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93526F1-8DC9-44C6-963D-15BC3996DFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93526F1-8DC9-44C6-963D-15BC3996DFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2773A2EE-21C5-4BBD-A5AE-CBDBCFA689D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773A2EE-21C5-4BBD-A5AE-CBDBCFA689D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773A2EE-21C5-4BBD-A5AE-CBDBCFA689D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773A2EE-21C5-4BBD-A5AE-CBDBCFA689D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C52BC12-E53A-40BF-98B5-6D7F9C66E8E9}
+	EndGlobalSection
+EndGlobal
